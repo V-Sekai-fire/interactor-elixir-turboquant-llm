@@ -17,4 +17,4 @@ mix test
 
 ## Licence
 
-This repository states no licence for its own code. The vendored runtime is MIT, as its `LICENSE` states.
+MIT. See [LICENSE](LICENSE). The vendored runtime is MIT, as its `LICENSE` states.
